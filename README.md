@@ -13,22 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hello, there! </h2><h3 align="left">👽 I'm Jeess ✨</h3>
-</br>
+<h2 align="left">Hello, there! 👽 I'm Jeess ✨</h2>
 </br>
 
+<h5>
+  
 〰️ 👓I'm a Junior Full Stack Dev
 
 〰️ 🎯 Learning **Database Management**
 
-〰️ 👯 Looking to collaborate on Junior Projects
+〰️ 👯 Looking to collaborate on cool challenging enough projects. I'm also open to suggestions ❗
 
-〰️ 📫 How to reach me **jeess.rm1@gmail.com** or **https://www.linkedin.com/in/rmjessica/**
+〰️ 📫 Reach me here **jeess.rm1@gmail.com** or **https://www.linkedin.com/in/rmjessica/**
 
 〰️ ⚡ Fun fact **https://tootsie.com/howmanylick-experiments**
 
-〰️ 🎶 Listen https://www.youtube.com/watch?v=FhKJgqxNDD8
-
+〰️ 🎶 Listen [https://www.youtube.com/watch?v=FhKJgqxNDD8](https://www.youtube.com/watch?v=bovkue5RUgA)
+</h5>
 <br/>
 
 <h4 align="left">Languages & Tools:</h4>

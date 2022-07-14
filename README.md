@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 〰️ 🎯 Learning **Database Management**
 
-〰️ 👯 Looking to collaborate on cool challenging enough projects. I'm also open to suggestions ❗
+〰️ 👯 Looking to collaborate on cool, challenging enough projects. I'm also open to suggestions ❗
 
 〰️ 📫 Reach me here **jeess.rm1@gmail.com** or **https://www.linkedin.com/in/rmjessica/**
 

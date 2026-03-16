@@ -1,23 +1,16 @@
-<!-- header -->
 <div align="center">
 
-```
- ██╗███████╗███████╗███████╗███████╗
- ██║██╔════╝██╔════╝██╔════╝██╔════╝
- ██║█████╗  ███████╗███████╗███████╗
- ██║██╔══╝  ╚════██║╚════██║╚════██║
- ██║███████╗███████║███████║███████║
- ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=200&section=header&text=JEESS&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50)
 
 # hey, i'm jeess 👽
-
 **dev · cloud tinkerer · curious by default**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=accessibility+%26+SEO+matter+here;fullstack+%2B+cloud+%2B+curious;still+figuring+it+out+%E2%80%94+loudly;%F0%9F%8E%B6+techno+never+stops)](https://git.io/typing-svg)
 
 *"As the island of my knowledge grows, so does the shore of my ignorance"*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rmjessica-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmjessica)
-[![Email](https://img.shields.io/badge/Email-jeess.rm1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeess.rm1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rmjessica-3fb950?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmjessica)
+[![Email](https://img.shields.io/badge/Email-jeess.rm1%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:jeess.rm1@gmail.com)
 
 </div>
 
@@ -34,6 +27,7 @@ I build web apps end-to-end, care deeply about **SEO and accessibility** (yes, a
 - 🌐 &nbsp;when I build frontends, accessibility and SEO aren't afterthoughts
 - ⚓ &nbsp;currently learning: **Kubernetes** — container orchestration, here we go
 - 🔭 &nbsp;figuring out: whether my future is in DevOps/cloud or deeper into fullstack — maybe both
+- 🎶 &nbsp;fueled by techno — the darker, the better
 - 💬 &nbsp;ask me about: Node.js, REST APIs, making things work *and* making them right
 
 ---
@@ -43,7 +37,7 @@ I build web apps end-to-end, care deeply about **SEO and accessibility** (yes, a
 **frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=3fb950)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -83,14 +77,14 @@ I build web apps end-to-end, care deeply about **SEO and accessibility** (yes, a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rmjessica&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmjessica&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rmjessica&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=3fb950&title_color=3fb950" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmjessica&layout=compact&theme=tokyonight&hide_border=true&title_color=3fb950" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmjessica&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmjessica&theme=tokyonight&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,8 +92,8 @@ I build web apps end-to-end, care deeply about **SEO and accessibility** (yes, a
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rmjessica&style=flat-square&color=6366f1&label=profile+views)
-
-*quality over hype. accessibility always. still figuring it out — loudly.* 🚀
+*quality over hype. accessibility always. still figuring it out — loudly.* 👽
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:0d1117&height=100&section=footer)
